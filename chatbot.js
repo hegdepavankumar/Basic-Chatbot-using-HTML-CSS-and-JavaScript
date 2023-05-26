@@ -4,6 +4,7 @@ const conversation = document.getElementById('conversation');
 const inputForm = document.getElementById('input-form');
 const inputField = document.getElementById('input-field');
 
+
 // Add event listener to input form
 inputForm.addEventListener('submit', function(event) {
   // Prevent form submission
