@@ -55,6 +55,7 @@ function generateResponse(input) {
     // Return a random response
     return responses[Math.floor(Math.random() * responses.length)];
   }
+  //tab switch
 
   window.onblur = function (tabs) { 
 alert('trying to switch tabs eh !'); 
