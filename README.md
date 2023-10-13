@@ -1,5 +1,13 @@
 # My_Chatbot
 
+<hr>
+
+![GitHub](https://img.shields.io/github/license/hegdepavankumar/Basic-Chatbot-using-HTML-CSS-and-JavaScript?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/Basic-Chatbot-using-HTML-CSS-and-JavaScript?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/Basic-Chatbot-using-HTML-CSS-and-JavaScript?style=flat)
+![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/Basic-Chatbot-using-HTML-CSS-and-JavaScript.svg?cache=remove)
+
+
 ## Preview
 
 ![chatbot-2](https://github.com/hegdepavankumar/Basic-Chatbot-using-HTML-CSS-and-JavaScript/assets/85627085/54b7bff0-cd2a-43b6-b29f-2303874d1474)
