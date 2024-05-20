@@ -39,7 +39,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Creator [🔝]
 
-(https://github.com/imhegde). This Project is Created by:-
+(https://github.com/hegdepavankumar). This Project is Created by:-
 
 | [<img src="https://github.com/hegdepavankumar.png?size=115" width="115"><br><sub>@hegdepavankumar</sub>](https://github.com/hegdepavankumar) |
 
